@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="deep_purple">#673AB7</color>
+    <!-- Yellow color -->
+    <color name="yellow">#FFFF00</color>
+
+    <!-- Pale Yellow color -->
+    <color name="pale_yellow">#FFFFE0</color>
+
+    <!-- Green color -->
+    <color name="green">#008000</color>
+
+    <!-- Light Green color -->
+    <color name="light_green">#90EE90</color>
+    <color name="pastel_yellow">#F7F4B7</color>
+    <color name="pink">#FFC0CB</color>
+
+    <!-- Light Pink -->
+    <color name="light_pink">#FFB6C1</color>
+
+    <!-- Dark Pink -->
+    <color name="dark_pink">#D81B60</color>
+
+    <!-- Sky Blue -->
+    <color name="sky_blue">#87CEEB</color>
+
+    <!-- Light Purple -->
+    <color name="light_purple">#D8BFD8</color>
+
+    <!-- Lavender -->
+    <color name="lavender">#E6E6FA</color>
+
+    <!-- Reddish Pink -->
+    <color name="reddish_pink">#FF69B4</color>
+
+    <!-- Blue -->
+    <color name="blue">#0000FF</color>
+
+    <color name="baby_pink">#FFB6C1</color>
+    <color name="soft_pink">#FFE6F5</color>
+    <color name="grey_selected">#FF4F4F4F</color> <!-- Example dark grey -->
+
+    <!-- Grey color for unselected item text -->
+    <color name="grey_unselected">#FFB0B0B0</color> <!-- Example light grey -->
+    <!-- Light Blue Color -->
+    <color name="light_blue">#ADD8E6</color>
+
+    <!-- Greenish Blue Color -->
+    <color name="greenish_blue">#20B2AA</color>
+
+    <!-- Shaded Blue Pink Color -->
+    <color name="shaded_blue_pink">#FF6F91</color>
+
+    <!-- Sea Blue Color -->
+    <color name="sea_blue">#2E8B57</color>
+    <!-- Purplish Blue Color -->
+    <color name="purplish_blue">#5C2F8A</color>
+
+    <!-- Light Purplish Blue Color -->
+    <color name="light_purplish_blue">#8A2C77</color>
+    <!-- Lavender Bluish Light Color -->
+    <color name="lavender_bluish_light">#D6CADD</color>
+    <!-- Dark Lavender Color -->
+    <color name="dark_lavender">#6D28D9</color>
+    <!-- Thick Lavender Color -->
+    <color name="thick_lavender">#D5A6E0</color>
+    <!-- Orangish Yellow Color -->
+    <color name="orangish_yellow">#F6C52C</color>
+    <!-- Light Orangish Yellow Color -->
+    <color name="light_orangish_yellow">#F9D08C</color>
+    <!-- Light Lemon Color -->
+    <color name="light_lemon">#F6F9A7</color>
+    <!-- Pastel Lemon Color -->
+    <color name="pastel_lemon">#F9F7A4</color>
+    <!-- Soft Yellow Color -->
+    <color name="soft_yellow">#F7F4A3</color>
+    <!-- Mustard Color -->
+    <color name="mustard">#FFDB58</color>
+    <!-- Mustard Yellow Color -->
+    <color name="mustard_yellow">#FFCC00</color>
+    <!-- Light Mustard Yellow Color -->
+    <color name="light_mustard_yellow">#F7E4A1</color>
+
+
+</resources>
