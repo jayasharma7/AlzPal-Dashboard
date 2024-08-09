@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ElegantTitle">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:fontFamily">serif</item>
+    </style>
+
+    <!-- Professional and Clean -->
+    <style name="ProfessionalTitle">
+        <item name="android:textSize">26sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:fontFamily">serif</item>
+    </style>
+
+    <!-- Decorative and Stylish -->
+    <style name="DecorativeHeading">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#222222</item>
+        <item name="android:fontFamily">cursive</item>
+    </style>
+
+    <style name="ArtisticDetail">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#555555</item>
+        <item name="android:fontFamily">serif</item>
+    </style>
+    <style name="FunkyTitleText">
+        <item name="android:textSize">24sp</item> <!-- Large text size -->
+        <item name="android:textColor">#FF4081</item> <!-- Vibrant Pink -->
+        <item name="android:textStyle">bold</item> <!-- Bold text -->
+        <item name="android:fontFamily">sans-serif-condensed</item> <!-- Funky font family -->
+        <item name="android:letterSpacing">0.02</item> <!-- Slightly increased letter spacing -->
+    </style>
+
+    <!-- Style for Funky Subtitles -->
+    <style name="FunkySubtitleText">
+        <item name="android:textSize">18sp</item> <!-- Medium text size -->
+        <item name="android:textColor">#009688</item> <!-- Teal -->
+        <item name="android:textStyle">italic</item> <!-- Italic text -->
+        <item name="android:fontFamily">sans-serif-light</item> <!-- Light and stylish font -->
+        <item name="android:letterSpacing">0.01</item> <!-- Slightly increased letter spacing -->
+    </style>
+
+    <style name="CasualBoldText">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item> <!-- Use a built-in font -->
+        <item name="android:letterSpacing">0.01</item>
+    </style>
+
+
+</resources>
